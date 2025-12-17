@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>571264414066-dakm9hdtm619ugdbi74dtp7g5fo6aos0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.571264414066-dakm9hdtm619ugdbi74dtp7g5fo6aos0</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>571264414066-fncjoq88u1reklenserdsb7ng72ddgcs.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCQavB5OzZ-ekUWHJjODJm8Ho4AEaP3uPE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>571264414066</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.farhan.twinkle</string>
+	<key>PROJECT_ID</key>
+	<string>twinkletwinkle-e7b64</string>
+	<key>STORAGE_BUCKET</key>
+	<string>twinkletwinkle-e7b64.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:571264414066:ios:087e4662ef364d1232edeb</string>
+	<key>DATABASE_URL</key>
+	<string>https://twinkletwinkle-e7b64.firebaseio.com</string>
+</dict>
+</plist>
